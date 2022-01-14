@@ -1,0 +1,21 @@
+const person = {"navn":"Holger",
+"alder":19
+}
+[
+"hercule Poirot"
+"Arsene Lupin"
+"Miss Marple"
+]
+[
+{"navn":"hercule Poirot", "nasjonalitet":"belgisk"},
+{"navn":"Arsene Lupin", "nasjonalitet":"Fransk"},
+{"navn":"Miss Marple", "nasjonalitet":"Britisk"}
+]
+{
+"navn":"serieguiden"
+"detektiver":[
+{"navn":"hercule Poirot", "nasjonalitet":"belgisk"},
+{"navn":"Arsene Lupin", "nasjonalitet":"Fransk"},
+{"navn":"Miss Marple", "nasjonalitet":"Britisk"}
+]
+}
